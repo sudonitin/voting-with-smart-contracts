@@ -1,4 +1,4 @@
-<h2>⛓Conducting Election with blockchain Technology⛓</h2><br>
+<h2>⛓Conducting Election with decentralized system⛓</h2><br>
 
 <img src = "https://github.com/globefire/voting-with-smart-contracts/blob/master/images/1.PNG" />
 
